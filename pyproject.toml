@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "soup-discord"
 version = "0.1.0"
-description = ""
+description = "Bot for the Super Supportive Discord Fan Server"
 authors = ["deerdp5fox7xmsloth <19501398-deerdp5fox7xmsloth@users.noreply.gitlab.com>"]
 license = "GNU GPL v3"
 readme = "README.md"
